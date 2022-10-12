@@ -20,7 +20,7 @@ while (j<10) {
 for (let j = 0; j < 3; j++) {
     console.log(j);
 }
-
+console.log("----------");
 let j=0
 while (j<3) {
     console.log(j);

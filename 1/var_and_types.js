@@ -48,3 +48,5 @@ if (empty>notEmpty) {
 } else {
     console.log('У нас больше занятых квартир');
 }
+
+

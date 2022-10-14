@@ -26,3 +26,5 @@ while (j<3) {
     console.log(j);
     j++;
 }
+console.log("----------");
+

@@ -24,7 +24,7 @@ let newValueMassiv1=(arr) => {
    return findMaxNumberInArray(arr); 
   }
 
-  return ("Error Date", arr.length);
+  return ["Error Date", arr.length];
 }
 
 console.log(newValueMassiv1(array1));

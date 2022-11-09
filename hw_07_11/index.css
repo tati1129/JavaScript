@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	padding: 50px;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    justify-items: center;
+}
+
+.show {
+    display: none;
+}
+
+.test {
+    display: none;
+	transition: opacity 0.5s;
+}
+
+.show-block{
+    display: contents;
+    
+}
+
+.hidden-block {
+	opacity: 0;
+}
+
+.show-btn {
+	background: rgb(112, 213, 108);
+	border: 3px solid rgb(3, 86, 23);
+	color: #fff;
+}
+
+.hide-btn {
+	background: #fff;
+	border: 3px solid #000;
+	color: #000;
+}

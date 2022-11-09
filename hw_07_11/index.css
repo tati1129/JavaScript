@@ -40,3 +40,18 @@ body {
 	border: 3px solid #000;
 	color: #000;
 }
+
+.button-action{
+	background: rgb(112, 213, 108);
+	border: 3px solid rgb(3, 86, 23);
+	color: #fff;
+}
+.image{
+	margin: 50px;
+	height: 200px;
+	width: 300px;
+}
+.get-style{
+	border-radius: 50px;
+	overflow: hidden;
+}
